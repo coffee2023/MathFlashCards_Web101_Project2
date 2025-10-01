@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/YZh6FAB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[My GIF link](https://imgur.com/a/YZh6FAB)
 
 GIF created with ...
 
